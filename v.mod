@@ -1,4 +1,3 @@
-
 Module {
 	name: 'chipmunk'
 	description: 'A Chipmunk wrapper written in V'
